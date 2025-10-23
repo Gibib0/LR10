@@ -1,0 +1,6 @@
+﻿  Task_1.cpp
+C:\Users\anast\OneDrive\Робочий стіл\Практикум ПЗ\ЛБПрПЗ5\Task_1\Task_1\Task_1.cpp(12,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Task_1.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Task_1.vcxproj -> C:\Users\anast\OneDrive\Робочий стіл\Практикум ПЗ\ЛБПрПЗ5\Task_1\x64\Debug\Task_1.exe
